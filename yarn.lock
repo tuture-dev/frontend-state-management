@@ -8727,6 +8727,11 @@ realpath-native@^1.1.0:
   dependencies:
     util.promisify "^1.0.0"
 
+recoil@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.npm.taobao.org/recoil/download/recoil-0.0.7.tgz#197066ac0a983e4728f5973033bbe5b40a277d40"
+  integrity sha1-GXBmrAqYPkco9ZcwM7vltAonfUA=
+
 recursive-readdir@2.2.2:
   version "2.2.2"
   resolved "https://registry.npm.taobao.org/recursive-readdir/download/recursive-readdir-2.2.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frecursive-readdir%2Fdownload%2Frecursive-readdir-2.2.2.tgz#9946fb3274e1628de6e36b2f6714953b4845094f"
